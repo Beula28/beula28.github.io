@@ -1,23 +1,21 @@
 # Beula — Personal Portfolio
 
-A responsive personal portfolio showcasing network engineering, embedded software, telecom systems, freelance technical delivery, and selected projects.
+Personal portfolio showcasing my experience in network engineering, embedded software, telecom systems, and freelance projects.
 
-## Tech
-- HTML
-- CSS
+## Tech Stack
+- HTML5
+- CSS3
 - JavaScript
 
-## Project files
-- `index.html` — page content
-- `styles.css` — layout and responsive styling
-- `script.js` — mobile navigation and footer year
-- `assets/hero-workspace.png` — custom hero visual
+## Featured Projects
+- [Custom MAC/PHY Integration](https://github.com/Beula28/custom-mac_mimo_phy)
+- [SOS WiFi Captive Portal](https://github.com/Beula28/SOSwifi-Landing/)
+- [FreePBX/Asterisk Deployment Portfolio](https://beula28.github.io/freepbx-deployment-portfolio/)
 
-## Test locally
-Extract the ZIP and open `index.html` in a browser. For a local server, run `python -m http.server 8000` from this folder and visit `http://localhost:8000`.
+## Live Website
+https://beula28.github.io
 
-## Deploy to GitHub Pages
-For `https://beula28.github.io`, create/use a public repository named `beula28.github.io`, upload the *contents* of this folder to the repository root, then open **Settings → Pages** and select branch `main` and folder `/(root)`.
+## Contact
+Email: hepshibabeula28@gmail.com
 
-## Before publishing
-Check all details and project descriptions for accuracy and client confidentiality. The AutoAce card links to the GitHub profile because a dedicated public repository URL was not provided.
+GitHub: https://github.com/Beula28
